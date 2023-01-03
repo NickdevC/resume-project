@@ -8,6 +8,6 @@ function fetchGitHubInformation(event) {
 
     $("#gh-user-data").html(
         `<div id="loader">
-            <img srs="assets/css/loader.gif" alt="loading..." />
-        </div>`)
+            <img src="assets/css/loader.gif" alt="loading..." />
+        </div>`);
 }
